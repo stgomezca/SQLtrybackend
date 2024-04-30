@@ -1,0 +1,6 @@
+@SQLtrybackend_HostAddress = http://localhost:5157
+
+GET {{SQLtrybackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

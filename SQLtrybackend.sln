@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLtrybackend", "SQLtrybackend\SQLtrybackend.csproj", "{3E0B3111-DA9C-4204-8E60-7C35958146DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E0B3111-DA9C-4204-8E60-7C35958146DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0B3111-DA9C-4204-8E60-7C35958146DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0B3111-DA9C-4204-8E60-7C35958146DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0B3111-DA9C-4204-8E60-7C35958146DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FB8C8D4-DA1E-4DC0-A0FF-06F10536848F}
+	EndGlobalSection
+EndGlobal
